@@ -3,4 +3,4 @@ ___
 ### Лабораторная работа №1 на Python.
 ___
 ![Screenshot](screenshot.PNG)
-![Variant](variant.PNG)
+![Variant](Variant.PNG)
